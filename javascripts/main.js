@@ -1,1 +1,3 @@
-console.log('stix');
+const bindEvents = require('./events');
+
+bindEvents();
