@@ -5,3 +5,9 @@ body {
 .on-sale > .thumbnail {
   border-color: red;
 }
+
+img {
+  padding: 2%;
+  width: 400px;
+  border-radius: 25%;
+}
