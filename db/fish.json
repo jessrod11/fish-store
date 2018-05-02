@@ -1,0 +1,40 @@
+{
+  "fish": [
+      {
+          "name": "One Fish",
+          "basePrice": 19,
+          "imageSource": "https://imgc.artprintimages.com/img/print/theodor-dr-seuss-geisel-one-fish-two-fish-ocean-collection-i-one-fish-ocean_u-l-f69dq70.jpg?src=gp&w=300&h=300",
+          "onSale": true
+      },
+      {
+          "name": "Two Fish",
+          "basePrice": 120,
+          "imageSource": "https://imgc.allpostersimages.com/img/posters/theodor-dr-seuss-geisel-one-fish-two-fish-ocean-collection-ii-two-fish-ocean_u-L-F69DQ80.jpg?src=gp&w=300&h=375",
+          "onSale": false
+      },
+      {
+          "name": "Red Fish",
+          "basePrice": 140,
+          "imageSource": "https://imgc.allpostersimages.com/img/posters/theodor-dr-seuss-geisel-one-fish-two-fish-ocean-collection-iii-red-fish-ocean_u-L-F69DQ90.jpg?src=gp&w=300&h=375",
+          "onSale": true
+      },
+      {
+          "name": "Blue Fish",
+          "basePrice": 19,
+          "imageSource": "https://icon.kisspng.com/20180330/fre/kisspng-one-fish-two-fish-red-fish-blue-fish-the-cat-in-dr-seuss-5abeab545c7db9.9343396215224451403789.jpg",
+          "onSale": true
+      },
+      {
+          "name": "Old Fish",
+          "basePrice": 10,
+          "imageSource": "https://img.buzzfeed.com/buzzfeed-static/static/2015-01/14/14/enhanced/webdr04/enhanced-buzz-2230-1421264369-2.jpg",
+          "onSale": false
+      },
+      {
+          "name": "New Fish",
+          "basePrice": 14,
+          "imageSource": "https://rlv.zcache.com/dr_seuss_one_fish_baby_girl_baby_shower_postage-r34f9090fbedd4d8eb25b025bb0b51652_eqlls_8byvr_260.jpg?rvtype=content",
+          "onSale": true
+      }
+  ]
+}

@@ -1,3 +1,3 @@
-const bindEvents = require('./events');
+const data = require('./data');
 
-bindEvents();
+data();
